@@ -1,0 +1,54 @@
+# Cotton Weave Project
+
+This repository contains the source code for the **Cotton Weave** product showcase webpage. It is a responsive web page designed to display the details, images, and features of a product in an attractive and user-friendly layout.
+
+## Features
+
+- **Responsive Design**: The layout adjusts seamlessly across different screen sizes and devices.
+- **Product Details Section**: Includes information about the product, such as name, description, price, and available colors.
+- **Image Showcase**: Highlights the product image prominently.
+- **Interactive Elements**: A call-to-action button to "Add to Bag" and a visually appealing rating display.
+
+## Technologies Used
+
+- **HTML**: For structuring the webpage content.
+- **CSS**: For styling the page and making it responsive.
+- **RemixIcon**: For using icons in the rating section.
+
+## File Structure
+
+```
+project-folder
+├── index.html    # Main HTML file for the webpage
+├── style.css     # CSS file for styling
+```
+
+## Setup and Usage
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/cotton-weave.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd cotton-weave
+   ```
+
+3. Open the `index.html` file in your browser to view the webpage.
+
+## Responsive Design
+
+The webpage is optimized for both desktop and mobile devices:
+- **Desktop View**: Side-by-side layout with detailed product information on the left and the image on the right.
+- **Mobile View**: Stacked layout with the product information above the image for better readability.
+
+## Contributions
+
+Contributions are welcome! Feel free to submit a pull request or open an issue for any bugs or feature requests.
+
+## Acknowledgments
+
+- [Unsplash](https://unsplash.com) for the product image.
+- [RemixIcon](https://remixicon.com/) for the icons used in the rating section.
+
